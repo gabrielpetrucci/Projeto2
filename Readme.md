@@ -1,3 +1,3 @@
-Olá, esse projeto  é sobre análise de dados
+Olá, esse projeto  é sobre análise de dados usando Jupyter
 
 
